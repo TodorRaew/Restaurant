@@ -1,0 +1,52 @@
+1 Cinque Formaggi 19.90 520 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+2 La Stella 19.70 590 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+3 Verdure Classic dough 15.80 530 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+4 Americana with Black Angus Classic dough 22.30 640 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+5 Mushrooms with truffle cream Classic dough 16.80 470 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+6 Al Tono Classic dough 21.90 520 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+7 Salami pizza classic dough 23.90 540 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+8 Carne Picante Classic dough 25.60 450 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+9 Farmhouse Classic dough 24.70 430 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+10 Calabrese classic dough 26.80 500 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+11 Polo a classic dough 26.90 430 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+12 Diablo classic dough 23.70 570 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+13 Polo a classic dough 26.76 345 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+14 Diablo classic dough 12.45 450 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+15 Margarita classic dough 15.78 500 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+16 Pepperone a classic dough 19.70 456 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+17 Mr. Pizza classic dough 23.89 500 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+18 Double eggs classic dough 24.56 500 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+19 Catano classic dough 24.78 450 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+20 Calzone classic dough 26.78 520 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+21 Toro classic dough 16.79 540 | classic dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+22 Verdure Whole wheat dough 15.80 530 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+23 Americana with Black Angus Whole wheat dough 22.30 640 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+24 Mushrooms with truffle cream Wholemeal dough 16.80 470 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+25 Al Tono Whole wheat dough 21.90 520 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+26 Carne Picante Whole wheat dough 18.50 500 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+27 Farmhouse Wholemeal dough 19.90 550 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+28 Toro whole wheat dough 14.90 490 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+29 Margarita whole wheat dough 9.60 370 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+30 Calabrese whole wheat dough 18.70 540 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+31 Diablo whole wheat dough 15.70 490 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+32 Calzone whole wheat dough 16.80 490 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+33 Polo whole wheat dough 17.80 440 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+34 Catano whole wheat dough 18.90 570 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+35 Pepperone whole wheat dough 15.50 440 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+36 Double eggs whole wheat dough 16.40 530 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+37 Mr. Pizza whole wheat dough 24.00 750 | Whole wheat dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+38 Farmer Roman dough 19.90 550 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+39 Mushrooms with truffle cream Roman dough 16.80 470 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+40 Americana with Black Angus Roman dough 22.30 640 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+41 Al Tono Roman dough 21.90 520 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+42 Verdure Roman dough 15.80 530 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+43 Carne Picante Roman dough 18.50 500 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+44 Toro Novel dough 14.90 490 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+45 Margarita Roman dough 9.60 370 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+46 Calabrese Roman dough 18.70 540 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+47 Diablo Roman dough 15.70 490 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+48 Polo Roman dough 17.80 440 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+49 Catano Roman dough 18.90 570 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+50 Pepperone Roman dough 15.50 440 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+51 Mr. Pizza Roman dough 24.00 750 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60
+52 Double Eggs Roman dough 16.40 530 | Roman dough @ 180 - Cheese @ 100 - Pizza sauce @ 60

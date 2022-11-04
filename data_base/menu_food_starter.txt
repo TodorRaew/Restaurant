@@ -1,0 +1,22 @@
+1 Spinach salad with polenta croutons 11.20 310 | Spinach @ 120 - Tomattoes @ 130
+2 Mixed salads with Avocado dressing 11.40 250 | Mix salad @ 100 - Guacamole @ 150
+3 ART salad with crispy chicken 12.80 390 | Chicken @ 120 - Beetroot @ 130
+4 Tuscany 15.20 210 | Potatoes @ 150 - Mozzarella @ 125
+5 Crispy Chicken Caesar 14.30 310 | Lettuce @ 100 - Corn @ 50
+6 Philadelphia Mousse Rock 10.80 390 | Tomattoes @ 150 - Tuna filet @ 100
+7 Ovcharska SALAD 10.60 470 | Cucumber @ 200 - Hummus @ 130
+8 Etna 11.90 470 | Tomattoes @ 250 - Chicken @ 80
+9 Pink tomato with roasted peppers 15.90 570 | Peppers @ 230 - Corn @ 40
+10 Greek salad 16.90 550 | Olives @ 60 - Peppers @ 130
+11 Shopska salad 8.90 390 | Onion @ 50 - Cucumber @ 80
+12 Guilty 12.70 380 | Tomattoes @ 130 - Spinach @ 120
+13 Guacamole 12.90 210 | Guacamole @ 150 - Mix salad @ 100
+14 Beetroot pate 6.90 250 | Beetroot @ 130 - Chicken @ 120
+15 Basil bite 9.90 250 | Mozzarella @ 125 - Potatoes @ 150
+16 Eggplant mousse 8.20 200 | Corn @ 50 - Lettuce @ 100
+17 Tuna mousse 10.90 200 | Tuna filet @ 100 - Tomattoes @ 150
+18 Hummus 7.80 200 | Hummus @ 130 - Cucumber @ 200
+19 Chicken soup 6.90 400 | Chicken @ 80 - Tomattoes @ 250
+20 Tripe 6.90 400 | Corn @ 40 - Peppers @ 230
+21 Cream soup with roasted peppers 6.90 400 | Peppers @ 130 - Olives @ 60
+22 Tarator 4.80 400 | Cucumber @ 80 - Onion @ 50

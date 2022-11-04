@@ -1,0 +1,56 @@
+classic dough | 50000
+Whole wheat dough | 50000
+Roman dough | 50000
+Cheese | 50000
+Pizza sauce | 20000
+Spinach | 50000
+Mix salad | 50000
+Chicken | 50000
+Potatoes | 50000
+Lettuce | 50000
+Tomattoes | 50000
+Cucumber | 50000
+Peppers | 50000
+Olives | 50000
+Onion | 50000
+Guacamole | 50000
+Beetroot | 50000
+Mozzarella | 50000
+Corn | 50000
+Tuna filet | 50000
+Hummus | 50000
+Milk | 10000
+Chocolate | 10000
+Diet Coke | 500
+Coca Cola® Zero Sugar | 500
+Coca Cola® Classic | 500
+Sprite® Zero | 500
+Fanta® Orange | 500
+Deep RiverRock Water | 500
+Nestle® PureLife® Water | 500
+Buxton® Mineral Water | 500
+Coca Cola can | 500
+Coca Cola Zero can | 500
+Fanta Orange can | 500
+Sprite can | 500
+Schweppes Tonic can | 500
+Schweppes Club Soda can | 500
+Fuze Tea Peach PET | 500
+Fuze Tea Lemon PET | 500
+Cappy Pineapple | 500
+Cappy Orange 100% | 500
+Cappy Multivitamin | 500
+Bottle of mineral water PET | 500
+STAROPRAMEN KEN | 500
+CORONA BOTTLE | 500
+HUGARDEN/HUGGARDEN BOTTLE | 500
+LEFE LIGHT Thigh | 500
+LEFE DARK THIGH | 500
+Kamenitsa Fresh with apple and pear ken | 500
+Kamenitsa Fresh with raspberry and blueberry ken | 500
+Hot Chocolate | 500
+White Hot Chocolate | 500
+Cinnamon Dolce Creme | 500
+Steamed Milk | 500
+Vanilla Creme | 500
+Coffee Expresso | 500

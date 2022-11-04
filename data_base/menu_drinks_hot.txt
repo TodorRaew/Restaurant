@@ -1,0 +1,6 @@
+1 Hot Chocolate 6.70 112 | Hot Chocolate @ 1
+2 White Hot Chocolate 5.40 140 | White Hot Chocolate @ 1
+3 Cinnamon Dolce Creme 6.80 120 | Cinnamon Dolce Creme @ 1
+4 Steamed Milk 7.30 150 | Steamed Milk @ 1
+5 Vanilla Creme 8.20 140 | Vanilla Creme @ 1
+6 Coffee Expresso 4.50 150 | Coffee Expresso @ 1

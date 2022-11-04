@@ -1,0 +1,28 @@
+1 Diet Coke 5.60 180 | Diet Coke @ 1
+2 Coca Cola® Zero Sugar 4.50 200 | Coca Cola® Zero Sugar  @ 1
+3 Coca Cola® Classic 5.70 250 | Coca Cola® Classic @ 1
+4 Sprite® Zero 4.80 250 | Sprite® Zero @ 1
+5 Fanta® Orange 6.00 300 | Fanta® Orange @ 1
+6 Deep RiverRock Water 2.50 500 | Deep RiverRock Water @ 1
+7 Nestle® PureLife® Water 3.00 500 | Nestle® PureLife® Water @ 1
+8 Buxton® Mineral Water 2.20 500 | Buxton® Mineral Water @ 1
+9 Coca Cola can 1.90 330 | Coca Cola can @ 1
+10 Coca Cola Zero can 1.90 330 | Coca Cola Zero can @ 1
+11 Fanta Orange can 1.90 330 | Fanta Orange can @ 1
+12 Sprite can 1.90 330 | Sprite can @ 1
+13 Schweppes Tonic can 1.90 330 | Schweppes Tonic can @ 1
+14 Schweppes Club Soda can 1.90 330 | Schweppes Club Soda can @ 1
+15 Fuze Tea Peach PET 2.40 500 | Fuze Tea Peach PET @ 1
+16 Fuze Tea Lemon PET 2.40 500 | Fuze Tea Lemon PET @ 1
+17 Cappy Pineapple 5.30 1000 | Cappy Pineapple @ 1
+18 Cappy Orange 100% 5.30 1000 | Cappy Orange 100% @ 1
+19 Cappy Multivitamin 5.30 1000 | Cappy Multivitamin @ 1
+20 Bottle of mineral water PET 1.10 500 | Bottle of mineral water PET @ 1
+21 Bottle of mineral water PET 1.50 1000 | Bottle of mineral water PET @ 1
+22 STAROPRAMEN KEN 3.00 500 | STAROPRAMEN KEN @ 1
+23 CORONA BOTTLE 5.20 355 | CORONA BOTTLE @ 1
+24 HUGARDEN/HUGGARDEN BOTTLE 4.40 330 | HUGARDEN/HUGGARDEN BOTTLE @ 1
+25 LEFE LIGHT Thigh 4.90 330 | LEFE LIGHT Thigh @ 1
+26 LEFE DARK THIGH 4.90 330 | LEFE DARK THIGH @ 1
+27 Kamenitsa Fresh with apple and pear ken 2.50 500 | Kamenitsa Fresh with apple and pear ken @ 1
+28 Kamenitsa Fresh with raspberry and blueberry ken 2.50 500 | Kamenitsa Fresh with raspberry and blueberry ken @ 1
